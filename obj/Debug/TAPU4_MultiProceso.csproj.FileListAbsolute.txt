@@ -1,0 +1,11 @@
+C:\Users\ulise\source\repos\TAPU4_MultiProceso\bin\Debug\TAPU4_MultiProceso.exe.config
+C:\Users\ulise\source\repos\TAPU4_MultiProceso\bin\Debug\TAPU4_MultiProceso.exe
+C:\Users\ulise\source\repos\TAPU4_MultiProceso\bin\Debug\TAPU4_MultiProceso.pdb
+C:\Users\ulise\source\repos\TAPU4_MultiProceso\obj\Debug\TAPU4_MultiProceso.csproj.AssemblyReference.cache
+C:\Users\ulise\source\repos\TAPU4_MultiProceso\obj\Debug\TAPU4_MultiProceso.Form1.resources
+C:\Users\ulise\source\repos\TAPU4_MultiProceso\obj\Debug\TAPU4_MultiProceso.Properties.Resources.resources
+C:\Users\ulise\source\repos\TAPU4_MultiProceso\obj\Debug\TAPU4_MultiProceso.csproj.GenerateResource.cache
+C:\Users\ulise\source\repos\TAPU4_MultiProceso\obj\Debug\TAPU4_MultiProceso.csproj.CoreCompileInputs.cache
+C:\Users\ulise\source\repos\TAPU4_MultiProceso\obj\Debug\TAPU4_MultiProceso.exe
+C:\Users\ulise\source\repos\TAPU4_MultiProceso\obj\Debug\TAPU4_MultiProceso.pdb
+C:\Users\ulise\source\repos\TAPU4_MultiProceso\obj\Debug\TAPU4_MultiProceso.Semaforos.resources
